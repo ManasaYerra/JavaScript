@@ -1,0 +1,11 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 70px;
+}
+.b{
+    width: 300px;
+    height: 40px;
+    margin-left: 41%;
+    margin-top: 20px;
+}
