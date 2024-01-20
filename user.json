@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "Cream Stone",
+        "noOfEmps" : "10",
+        "ceo" : "Blah Blah Bro",
+        "rating" : "4.5"
+    },
+    {
+        "name" : "Arun",
+        "noOfEmps" : "6",
+        "ceo" : "xxx",
+        "rating" : "4.7"
+    }
+]
